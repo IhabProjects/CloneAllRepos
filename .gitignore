@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore PowerShell session files
+*.ps1*
+
+# Ignore token files
+*.token
