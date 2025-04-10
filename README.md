@@ -13,7 +13,7 @@ This PowerShell script allows you to authenticate and clone all repositories fro
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/CloneAllRepos.git
+    git clone https://github.com/IhabProjects/CloneAllRepos.git
     cd CloneAllRepos
     ```
 
